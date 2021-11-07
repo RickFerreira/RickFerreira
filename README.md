@@ -32,8 +32,8 @@
   <a href = "mailto:richard.salviano@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-ferreira-salviano-15764a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://sites.google.com/view/hightechifpb/sobre-mim" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
- 
 
+  ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
