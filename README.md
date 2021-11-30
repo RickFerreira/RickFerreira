@@ -6,10 +6,10 @@
 - ⚡ Adoro trabalhos com robótica 
 ##
 <div align="left">
-  <img align="right" alt="Rick-Boneco" height="230" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
+  <img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
   <a href="https://github.com/RickFerreira">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=ocean_dark"/>
 
 </div>
 
@@ -34,7 +34,4 @@
   <a href = "mailto:richard.salviano@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-ferreira-salviano-15764a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://sites.google.com/view/hightechifpb/sobre-mim" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
