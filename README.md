@@ -1,9 +1,9 @@
-### 👋 Hello, World. 🌎 My name is Rick 👨‍💻
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, World🌎. My name is Rick 👨‍💻
 ##
 - 🔭 Atualmente trabalho com manutenção de computadores
 - 🌱 Sou formado como Técnico em Informática pelo IFPB
 - 👯 Estou cursando Engenharia de Computação no IFPB
-- ⚡ Adoro trabalhos com robótica 
+- ⚡ Adoro trabalhar com robótica e Front-End
 ##
 <div align="left">
   <img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
