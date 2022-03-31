@@ -18,10 +18,12 @@
   <img align="center" alt="Rick-Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Rick-Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rick-C" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
-  <img align="center" alt="Rick-JavaScript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rick-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
-  
-
+  <img align="center" alt="Rick-JavaScript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rick-HTML" height="70" width="80" 
+src="https://img.icons8.com/color/344/html-5--v1.png">  
+  <img align="center" alt="Rick-CSS" height="70" width="80" 
+src="https://img.icons8.com/color/452/css3.png"> 
 </div>
   
 ##
@@ -31,5 +33,5 @@
  	<a href="https://www.twitch.tv/eu_rick" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:richard.salviano@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-ferreira-salviano-15764a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://sites.google.com/view/hightechifpb/sobre-mim" target="_blank"><img height="28" width="100" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
+  <a href="https://sites.google.com/view/hightechifpb/sobre-mim" target="_blank"><img height="28" width="100" src="https://img.myloview.com.br/posters/icone-de-vetor-da-web-com-a-seta-icone-do-site-com-o-cursor-em-movimento-700-132265993.jpg" target="_blank"></a> 
 </div>
