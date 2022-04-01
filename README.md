@@ -10,21 +10,20 @@
   <a href="https://github.com/RickFerreira">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="109em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=ocean_dark"/>
-
 </div>
 
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Rick-Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Rick-Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rick-C" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+  <img align="center" alt="Rick-C" height="70" width="80" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
   <img align="center" alt="Rick-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
   <img align="center" alt="Rick-JavaScript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rick-HTML" height="70" width="80" 
 src="https://img.icons8.com/color/344/html-5--v1.png">  
   <img align="center" alt="Rick-CSS" height="70" width="80" 
 src="https://img.icons8.com/color/452/css3.png"> 
-</div>
   <img align="center" alt="Rick-React" height="70" width="80" 
 src="https://miro.medium.com/max/1400/0*k9CL2yoHU6ELTkmi.png"> 
 </div>
