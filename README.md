@@ -1,6 +1,7 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, World🌎. My name is Rick 👨‍💻
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, World🌎. My name is Rick 👨‍💻</h2>
+
 ##
-<h2> 👨🏽‍🦱 Sobre mim: </h2>
+<h2 > 👨🏽‍🦱 Sobre mim: </h2>
 
 
 - 💻 Atualmente trabalho com manutenção de computadores
@@ -15,8 +16,10 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
-<h2> ♨️ Linguagens de programação: </h2>
-<div style="display: inline_block"><br>
+
+##
+<h2 align="center"> ♨️ Linguagens de programação: </h2>
+<div align="center": style="display: inline_block><br>
 
   <img align="center" alt="Rick-Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Rick-Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -33,8 +36,8 @@ src="https://logospng.org/download/react/logo-react-1024.png">
 </div>
 
 ##
-<h2> 🌌 Redes sociais: </h2> 
-<div> 
+<h2 align="center"> 🌌 Redes sociais: </h2> 
+<div align="center"> 
   <a href="https://instagram.com/rick.rfs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/eu_rick" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:richard.salviano@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
