@@ -11,8 +11,9 @@
 <div align="left">
   <img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
   <a href="https://github.com/RickFerreira">
+    
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="109em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 <h2> ♨️ Linguagens de programação: </h2>
 <div style="display: inline_block"><br>
