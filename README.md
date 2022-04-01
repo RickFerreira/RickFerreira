@@ -25,7 +25,10 @@ src="https://img.icons8.com/color/344/html-5--v1.png">
   <img align="center" alt="Rick-CSS" height="70" width="80" 
 src="https://img.icons8.com/color/452/css3.png"> 
 </div>
-  
+  <img align="center" alt="Rick-React" height="70" width="80" 
+src="https://miro.medium.com/max/1400/0*k9CL2yoHU6ELTkmi.png"> 
+</div>
+
 ##
  
 <div> 
