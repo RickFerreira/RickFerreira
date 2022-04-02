@@ -1,20 +1,26 @@
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, World🌎. My name is Rick 👨‍💻</h2>
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">Hello, World🌎. My name is Rick <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"> </h2>
 
 ##
-<h2 > 👨🏽‍🦱 Sobre mim: </h2>
+<h2 align="center"> 👨🏽‍🦱 Sobre mim: </h2>
 
 
+  <img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
+  <a href="https://github.com/RickFerreira">
+    
+  <br>
+  
 - 💻 Atualmente trabalho com manutenção de computadores
 - 🎓 Sou formado como Técnico em Informática pelo IFPB
 - 🤓 Estou cursando Engenharia de Computação no IFPB
 - ⚡ Adoro trabalhar com robótica e Front-End
+    <br><br><br>
 ##
-<div align="left">
-  <img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
-  <a href="https://github.com/RickFerreira">
-    
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=ocean_dark"/>
+<h2 align="center"> 👽 Git Hub: </h2>
+  
+
+<div align="center">
+  <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
 ##
