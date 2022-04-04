@@ -1,7 +1,9 @@
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">Hello, World🌎. My name is Rick <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"> </h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">Hello, World🌎. My name is Rick <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"> </h2>
+
+<div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/960553749368152084/Rick_Ferreira-min_1.gif" width="70%"></div>
 
 ##
-<h2 align="center"> 👨🏽‍🦱 Sobre mim: </h2>
+<h2 align="center"> 👨🏽‍🦱 About me: </h2>
 
 
   <img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
@@ -24,7 +26,7 @@
 </div>
 
 ##
-<h2 align="center"> ♨️ Linguagens de programação: </h2>
+<h2 align="center"> ♨️ Experiences: </h2>
 <div align="center": style="display: inline_block><br>
 
   <img align="center" alt="Rick-Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
@@ -42,7 +44,7 @@ src="https://logospng.org/download/react/logo-react-1024.png">
 </div>
 
 ##
-<h2 align="center"> 🌌 Redes sociais: </h2> 
+<h2 align="center"> 🌌 Social media: </h2> 
 <div align="center"> 
   <a href="https://instagram.com/rick.rfs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/eu_rick" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
