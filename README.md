@@ -57,7 +57,7 @@ src="https://www.wattson.pt/wp-content/uploads/2018/12/Lego-Logo.png ">
  	<a href="https://www.twitch.tv/eu_rick" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:richard.salviano@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-ferreira-salviano-15764a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://sites.google.com/view/hightechifpb/sobre-mim" target="_blank"><img height="28" width="100" src="https://img.myloview.com.br/posters/icone-de-vetor-da-web-com-a-seta-icone-do-site-com-o-cursor-em-movimento-700-132265993.jpg" target="_blank"></a> 
+  <a href="https://sites.google.com/view/hightechifpb/sobre-mim" target="_blank"><img height="28" width="100" src="https://cdn.discordapp.com/attachments/459871999943114762/961336836691755028/1271847.png" target="_blank"></a> 
   
 
   ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
