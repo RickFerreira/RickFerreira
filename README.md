@@ -62,3 +62,4 @@ src="https://www.wattson.pt/wp-content/uploads/2018/12/Lego-Logo.png ">
 
   ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
 </div>
+by Rick
