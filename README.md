@@ -27,10 +27,7 @@
 </div>
 
 ##
-<h2 align="center"> ♨️ Skills: </h2>
-<div align="center": style="display: inline_block><br>
-
-                            
+<h2 align="center"> ♨️ Skills: </h2>                         
 <div align="center">
   <table>
      <tr>
@@ -58,7 +55,7 @@ src="https://www.wattson.pt/wp-content/uploads/2018/12/Lego-Logo.png ">
         <img align="center" alt="Rick-React" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
         <img align="center" alt="Rick-Cplusplus" height="30" width="40" 
-src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">                                                                         
+src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">           
       </td>   
       <td align="center">
        <img align="center" title="Rick-Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
