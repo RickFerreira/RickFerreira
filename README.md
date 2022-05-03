@@ -1,5 +1,4 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">Hello, World🌎. <br>
-  My name is Rick <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"> </h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">Hello World🌎. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"> </h2>
 
 <div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/960553749368152084/Rick_Ferreira-min_1.gif" width="95%"></div>
 
@@ -28,27 +27,46 @@
 </div>
 
 ##
-<h2 align="center"> ♨️ Experiences: </h2>
+<h2 align="center"> ♨️ Skills: </h2>
 <div align="center": style="display: inline_block><br>
 
-  <img align="center" alt="Rick-Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Rick-Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rick-C" height="70" width="80" 
+                            
+<div align="center">
+  <table>
+     <tr>
+        <td align="center">Já estudei:</td>
+        <td align="center">Estou estudando:</td>
+        <td align="center">Vou estudar:</td>
+      </tr>
+      <tr>
+        <td align="center">             
+          <img align="center"  title="Rick-Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+          <img align="center" alt="Rick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
+          <img align="center" tittle="Rick-Jupyter" alt="Jupyter" height"30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+           <img align="center" title="Rick-Pandas" alt="Pd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+          <img align="center" title="Rick-HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          <img align="center"  title="Rick-CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          <img align="center" alt="Rick-C" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
-  <img align="center" alt="Rick-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
-  <img align="center" alt="Rick-JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rick-HTML" height="70" width="80" 
-src="https://img.icons8.com/color/344/html-5--v1.png">  
-  <img align="center" alt="Rick-CSS" height="70" width="80" 
-src="https://img.icons8.com/color/452/css3.png"> 
-  <img align="center" alt="Rick-React" height="70" width="80" 
-src="https://logospng.org/download/react/logo-react-1024.png"> 
-  <img align="center" alt="Rick-ArduinoIDE" height="60" width="70" 
+          <img align="center" alt="Rick-ArduinoIDE" height="30" width="40" 
 src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo.png ">     
-  <img align="center" alt="Rick-LEGO" height="70" width="80" 
-src="https://www.wattson.pt/wp-content/uploads/2018/12/Lego-Logo.png ">                                                                       
-                                                            
-</div>
+          <img align="center" alt="Rick-LEGO" height="30" width="40" 
+src="https://www.wattson.pt/wp-content/uploads/2018/12/Lego-Logo.png ">     
+      </td>
+      <td align="center">
+        <img align="center" title="JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="Rick-React" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+        <img align="center" alt="Rick-Cplusplus" height="30" width="40" 
+src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">                                                                         
+      </td>   
+      <td align="center">
+       <img align="center" title="Rick-Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+       <img align="center" title="Rick-Node" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+    </td>
+    </tr>
+  </table>
+</div>                                                       
 
 ##
 <h2 align="center"> 🌌 Social media: </h2> 
