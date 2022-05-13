@@ -1,39 +1,31 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">Hello World🌎. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"> </h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">Hello World🌎<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"></h2>
+<h3 align="center">Pegue sua xicará de café e vamos conhecer meu portfólio!!♨️</h3>
 
-<div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/960553749368152084/Rick_Ferreira-min_1.gif" width="95%"></div>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/960553749368152084/Rick_Ferreira-min_1.gif" width="90%"></div>
 
 ##
 <h2 align="center"> 👨🏽‍🦱 About me: </h2>
 
-
   <img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
-  <a href="https://github.com/RickFerreira">
-    
+
   <br>  <br>
-  
-  
+
 - 💻 Atualmente trabalho com manutenção de computadores
 - 🎓 Sou formado como Técnico em Informática pelo IFPB
 - 🤓 Estou cursando Engenharia de Computação no IFPB
 - ⚡ Adoro trabalhar com robótica e Front-End
+- 🚀 Estudando para ser um dev Full Stack
     <br><br><br>
-##
-<h2 align="center"> 👽 Git Hub: </h2>
-  
-
-<div align="center">
-  <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=ocean_dark"/>
-</div>
-
-##
+    
+    
+ ##
 <h2 align="center"> ♨️ Skills: </h2>                         
 <div align="center">
   <table>
      <tr>
         <td align="center">Já estudei:</td>
         <td align="center">Estou estudando:</td>
-        <td align="center">Vou estudar:</td>
+        <td align="center">Pretendo estudar:</td>
       </tr>
       <tr>
         <td align="center">             
@@ -67,6 +59,18 @@ src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
     </tr>
   </table>
 </div>                                                       
+   
+    
+    
+##
+<h2 align="center"> 👽 Git Hub: </h2>
+
+<div align="center">
+  <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=RickFerreira&hide_border=true&theme=react" />
+</div>
+
 
 ##
 <h2 align="center"> 🌌 Social media: </h2> 
@@ -78,6 +82,9 @@ src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
   <a href="https://sites.google.com/academico.ifpb.edu.br/richard/inicio" target="_blank"><img height="28" width="100" src="https://cdn.discordapp.com/attachments/459871999943114762/961336836691755028/1271847.png" target="_blank"></a> 
   
 
+##
+<h2 align="center"> 🐍 Commits: </h2>   
+  
   ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
 </div>
 by Rick
