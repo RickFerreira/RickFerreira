@@ -41,8 +41,8 @@
           <img align="center"  title="Rick_CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
           <img align="center" title="Rick_C" alt="C" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
-          <img align="center" title="Rick_Arduino" alt="ArduinoIDE" height="30" width="40" 
-src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo.png ">     
+          <img align="center" title="Rick_Arduino" alt="ArduinoIDE" height="30" width="30" 
+src="https://www.logolynx.com/images/logolynx/9e/9eb6de771bf478a1a04d08969a76ccf6.png">     
           <img align="center" title="Rick_LEGO" alt="LEGO" height="30" width="40" 
 src="https://www.wattson.pt/wp-content/uploads/2018/12/Lego-Logo.png ">     
       </td>
