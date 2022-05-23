@@ -17,6 +17,7 @@
 - 💻 Atualmente trabalho com manutenção de computadores
 - 🎓 Sou formado como Técnico em Informática pelo IFPB
 - 🤓 Estou cursando Engenharia de Computação no IFPB
+- 👨🏽‍💻 Estagiario na área de Front-End na Synchro
 - ⚡ Gosto muito de trabalhar com robótica e Front-End
 - 🚀 Estou estudando para ser um desenvolvedor Full Stack
      <br><br><br>
