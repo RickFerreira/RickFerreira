@@ -93,5 +93,25 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <h2 align="center"> 🐍 Commits: </h2>   
   
   ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
+
+<br><br>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RickFerreira">
+        <img src="https://avatars.githubusercontent.com/u/40415279?v=4" width="100px;" alt="Avatar Rick"/><br>
+        <sub>
+          <b>by Rick</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+        
+<a href="https://github.com/RickFerreira">
+        <p>☝🏽 Voltar ao topo</p>
+</a>
+
+
 </div>
-by Rick
