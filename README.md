@@ -108,10 +108,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </td>
   </tr>
 </table>
-        
-<a href="https://github.com/RickFerreira">
-        <p>☝🏽 Voltar ao topo</p>
-</a>
-
 
 </div>
