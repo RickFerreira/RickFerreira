@@ -93,7 +93,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
   ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
        
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="100%" alt="Ashutosh's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=RickFerreira&theme=gotham" /></a>
+  <a href="https://github.com/RickFerreira?tab=repositories"><img width="95%" alt="Ashutosh's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=RickFerreira&theme=gotham" /></a>
 
 <br>
 
