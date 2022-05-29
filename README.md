@@ -4,10 +4,10 @@
 ```python
        print( " Pegue sua xicará de café e vamos conhecer meu portfólio!! ♨️ " )
 ```
-##
+
 <div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/960553749368152084/Rick_Ferreira-min_1.gif" width="90%"></div>
 
-##
+<br>
 <h2 align="center"> 👨🏽‍🦱 About me: </h2>
 
   <img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
@@ -23,7 +23,6 @@
      <br><br><br>
     
     
- ##
 <h2 align="center"> ♨️ Skills: </h2>                         
 <div align="center">
   <table>
@@ -69,8 +68,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>                                                       
    
     
-    
-##
+   
+<br>
 <h2 align="center"> 👽 Git Hub: </h2>
 
 <div align="center">
@@ -80,25 +79,25 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 
-##
+<br>
 <h2 align="center"> 🌌 Social media: </h2> 
 <div align="center"> 
   <a href="https://instagram.com/rick.rfs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/eu_rick" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:richard.salviano@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-ferreira-salviano-15764a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://sites.google.com/academico.ifpb.edu.br/richard/inicio" target="_blank"><img height="28" width="100" src="https://cdn.discordapp.com/attachments/459871999943114762/961336836691755028/1271847.png" target="_blank"></a> 
+  <a href="https://rickferreira.github.io/" target="_blank"><img height="28" width="100" src="https://cdn.discordapp.com/attachments/459871999943114762/961336836691755028/1271847.png" target="_blank"></a> 
   
-
-##
+<br><br>
 <h2 align="center"> 🐍 Commits: </h2>   
   
   ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
        
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="83%" alt="Ashutosh's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=RickFerreira&theme=gotham" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="90%" alt="Ashutosh's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=RickFerreira&theme=gotham" /></a>
 
 <br><br>
-        
+
+<h2 align="center"> 🔥 Author: </h2>   
 <table>
   <tr>
     <td align="center">
@@ -111,5 +110,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </td>
   </tr>
 </table>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/RickFerreira/count.svg" />
+</p>
 </div>
