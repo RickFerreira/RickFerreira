@@ -1,6 +1,5 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">Hello World🌎<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"></h2>
 
-
 ```python
        print( " Pegue sua xicará de café e vamos conhecer meu portfólio!! ♨️ " )
 ```
