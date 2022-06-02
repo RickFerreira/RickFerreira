@@ -76,9 +76,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <h2 align="center"> 👽 Git Hub: </h2>
 
 <div align="center">
-  <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=react"/>
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=RickFerreira&hide_border=true&theme=react" />
+   <table>
+    <tr>
+      <td>
+        <img height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=react"/>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+        <img height="100%"  src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RickFerreira&hide_border=true&theme=react" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
