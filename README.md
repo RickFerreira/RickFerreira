@@ -5,6 +5,7 @@
        print( " Pegue sua xicará de café e vamos conhecer meu portfólio!! ♨️ " )
 ```
 
+
 <div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/960553749368152084/Rick_Ferreira-min_1.gif" width="90%"></div>
 
 <br>
