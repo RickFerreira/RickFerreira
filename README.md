@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">Hello World🌎<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="40px"></h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"><i>Hello World🌎</i><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="40px"></h2>
 
 
 
@@ -10,7 +10,7 @@
 <div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/960553749368152084/Rick_Ferreira-min_1.gif" width="90%"></div>
 
 <br>
-<h2 align="center"> 👨🏽‍🦱 About me: </h2>
+<h2 align="center"><i> 👨🏽‍🦱 About me: </i></h2>
 
 
   <img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
@@ -26,7 +26,7 @@
      <br><br><br>
     
     
-<h2 align="center"> ♨️ Skills: </h2>                         
+<h2 align="center"><i> ♨️ Skills: </i></h2>                         
 <div align="center">
   <table>
      <tr>
@@ -71,10 +71,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </table>
 </div>                                                       
    
-    
-   
 <br>
-<h2 align="center"> 👽 Git Hub: </h2>
+
+<h2 align="center"><i> 👽 Git Hub: </i></h2>
 
 <div align="center">
    <table>
@@ -96,9 +95,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </table>
 </div>
 
-
 <br>
-<h2 align="center"> 🌌 Social media: </h2> 
+<h2 align="center"><i> 🌌 Social media: </i></h2> 
 <div align="center"> 
   <a href="https://instagram.com/rick.rfs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/eu_rick" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -107,15 +105,72 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <a href="https://rickferreira.github.io/" target="_blank"><img height="28" width="100" src="https://cdn.discordapp.com/attachments/459871999943114762/961336836691755028/1271847.png" target="_blank"></a> 
   
 <br><br>
-<h2 align="center"> 🐍 Commits: </h2>   
+<h2 align="center"><i> 🐍 Commits: </i></h2>   
   
   ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
        
   <a href="https://github.com/RickFerreira?tab=repositories"><img width="96%" alt="Rick activity graph" src="https://activity-graph.herokuapp.com/graph?username=RickFerreira&theme=gotham" /></a>
+       
+<br>      
+         
+<h2 align="center"><i> 💯 Main repositories</i></h2>
+
+<p align="center">
+   <table>
+    <tr>
+       <td align="center">Front End</td>
+       <td align="center">Back End</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/RickFerreira/rickferreira.github.io">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=rickferreira.github.io&theme=react&hide_border=true" >
+        </a>
+        <a href="https://github.com/RickFerreira/EstudosJavaScript">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosJavaScript&theme=react&hide_border=true"  >
+        </a>
+        <a href="https://github.com/RickFerreira/EstudosReact">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosReact&theme=react&hide_border=true" >
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/RickFerreira/EstudosPOO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosPOO&theme=react&hide_border=true" >
+        </a>
+        <a href="https://github.com/RickFerreira/EstudosTeoriaDosGrafos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosTeoriaDosGrafos&theme=react&hide_border=true" >
+        </a>
+        <a href="https://github.com/RickFerreira/Bom-Treino-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Bom-Treino-App&theme=react&hide_border=true" >
+        </a>
+      </td>
+    </tr>
+    <tr>
+       <td align="center">Minijogos Web</td>
+       <td align="center">Banco de Dados</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/RickFerreira/Jogo-Dinossauro-Google">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Jogo-Dinossauro-Google&theme=react&hide_border=true" >
+        </a>
+        <a href="https://github.com/RickFerreira/LabiRick">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=LabiRick&theme=react&hide_border=true"  >
+        </a>
+        <a href="https://github.com/RickFerreira/Maratona-Explorer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Maratona-Explorer&theme=react&hide_border=true" >
+        </a>
+      </td>
+      <td align="center">
+         <p>Pretendo estudar ainda</p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <br>
 
-<h2 align="center"> 🔥 Author: </h2>   
+<h2 align="center"><i> 🔥 Author: </i></h2>   
 <table>
   <tr>
     <td align="center">
@@ -128,9 +183,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </td>
   </tr>
 </table>
+       
+       
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RickFerreira/count.svg" />
 </p>
        
-</div>
