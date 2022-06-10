@@ -86,11 +86,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <table>
     <tr>
       <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=rickferreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
         <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RickFerreira&hide_border=true&theme=react" />
       </td>
+      <td>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=rickferreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>       </td>
     </tr>
   </table>
 </div>
@@ -108,8 +107,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <h2 align="center"><i> 🐍 Commits: </i></h2>   
   
   ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
+      
        
-  <a href="https://github.com/RickFerreira?tab=repositories"><img width="96%" alt="Rick activity graph" src="https://activity-graph.herokuapp.com/graph?username=RickFerreira&theme=gotham" /></a>
+  <a  href="https://github.com/RickFerreira?tab=repositories"><img width="96%" alt="Rick activity graph"  src="https://activity-graph.herokuapp.com/graph?username=RickFerreira&theme=gotham" /></a>
        
 <br>      
          
