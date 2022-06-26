@@ -1,11 +1,8 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"><i>Hello World🌎</i><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" height="40px"></h2>
-
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Hello+World🌎/>"/></div>
 
 ```python
        print( " Pegue sua xicará de café e vamos conhecer meu portfólio!! ♨️ " )
 ```
-
-
   
 <div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/960553749368152084/Rick_Ferreira-min_1.gif" width="90%"></div>
 
@@ -182,10 +179,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </td>
   </tr>
 </table>
-       
-       
+
+<div align="center">
+       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<Espero+que+tenha+gostado/>"/> 
+</div>
+
+<div align="center">
+       <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"/>
+</div>
+<br></br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RickFerreira/count.svg" />
 </p>
-       
+
+
