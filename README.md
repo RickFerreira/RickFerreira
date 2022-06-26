@@ -55,10 +55,10 @@ src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
         <img align="center" title="Rick_Sass" alt="Sass" height="30" width="40"                                                                  src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png">
         <img align="center" title="Rick_Styledcomponents" alt="Styled_components" height="30" width="40"                         src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
+        <img align="center" title="Rick_Git" alt="Git" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
       </td>   
       <td align="center">
-       <img align="center" title="Rick_Git" alt="Git" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
        <img align="center" title="Rick_SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
        <img align="center" title="Rick_MySQL" alt="MySQL" height="30" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> 
        <img align="center" title="Rick_Postman" alt="Postman" height="30" width="40" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
