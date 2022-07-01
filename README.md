@@ -1,7 +1,6 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Hello+World🌎/>"/></div>
 
 
-
 ```python
        print( " Pegue sua xicará de café e vamos conhecer meu portfólio!! ♨️ " )
 ```
@@ -21,6 +20,7 @@
 - 💻 _Atualmente trabalho com manutenção de computadores_
 - 🎓 _Sou formado como Técnico em Informática pelo IFPB_
 - 🤓 _Estou cursando Engenharia de Computação no IFPB_
+- 🎲 _Bolsista GoSyn4Tax no IFPB e Synchro Soluções_
 - ⚡ _Gosto muito de trabalhar com robótica e Front-End_
 - 🚀 _Estou estudando para ser um desenvolvedor Full Stack_
      <br><br><br>
