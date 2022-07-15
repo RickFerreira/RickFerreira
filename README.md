@@ -2,7 +2,6 @@
 
 
 
-
 ```python
        print( " Pegue sua xicará de café e vamos conhecer meu portfólio!! ♨️ " )
 ```
