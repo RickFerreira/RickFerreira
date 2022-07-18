@@ -128,11 +128,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
         <a href="https://github.com/RickFerreira/rickferreira.github.io">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=rickferreira.github.io&theme=react&hide_border=true" >
         </a>
-        <a href="https://github.com/RickFerreira/EstudosJavaScript">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosJavaScript&theme=react&hide_border=true"  >
+        <a href="https://github.com/RickFerreira/Degrauss">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Degrauss&theme=react&hide_border=true"  >
         </a>
-        <a href="https://github.com/RickFerreira/EstudosReact">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosReact&theme=react&hide_border=true" >
+        <a href="https://github.com/RickFerreira/clone-netflix">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=clone-netflix&theme=react&hide_border=true" >
         </a>
       </td>
       <td align="center">
