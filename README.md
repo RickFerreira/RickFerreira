@@ -1,6 +1,5 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Hello+World🌎/>"/></div> 
     
-    
 ```python
        print( " Pegue sua xicará de café e vamos conhecer meu portfólio!! ♨️ " )
 ```
