@@ -13,19 +13,16 @@
 <h2 align="center"><i> 👨🏽‍🦱 About me: </i></h2>
 
 
-  <img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
+<img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
 
 <br><br>
 
-- 💻 _Atualmente trabalho com manutenção de computadores_
 - 🎓 _Sou formado como Técnico em Informática pelo IFPB_
 - 🤓 _Estou cursando Engenharia de Computação no IFPB_
-- 🎲 _Bolsista no projeto GoSyn4Tax do IFPB com a Synchro_
-- ⚡ _Gosto muito de trabalhar com robótica e Front-End_
-- 🚀 _Estou estudando para ser um desenvolvedor Full Stack_
+- 🚀 _Bolsista no projeto GoSyn4Tax do IFPB com a Synchro_
+- 💻 _Gosto muito de trabalhar com robótica e Front-End_
      
 <br><br><br>
-    
     
 <h2 align="center"><i> ♨️ Skills: </i></h2>                         
 <div align="center">
