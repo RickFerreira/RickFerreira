@@ -8,7 +8,6 @@
 
 <br>
 
-
 <h2 align="center"><i> 👨🏽‍🦱 About me: </i></h2>
 
 
