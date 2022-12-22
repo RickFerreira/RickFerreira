@@ -1,7 +1,7 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Hello+World🌎/>"/></div> 
              
 ```python
-       print( " Pegue sua xicará de café e vamos conhecer meu portfólio!! ♨️ " )
+       print( " Pegue sua xicará de café e venha conhecer meu portfólio!! ♨️ " );
 ```
   
 <div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/960553749368152084/Rick_Ferreira-min_1.gif" width="90%"></div>
@@ -15,10 +15,11 @@
 
 <br><br>
 
-- 🎓 _Sou formado como Técnico em Informática pelo IFPB_
-- 🤓 _Estou cursando Engenharia de Computação no IFPB_
+- 🎓 _Formado como Técnico em Informática pelo IFPB_
+- 🤓 _Graduando em Engenharia de Computação no IFPB_
 - 🚀 _Bolsista no projeto GoSyn4Tax do IFPB com a Synchro_
-- 💻 _Gosto muito de trabalhar com robótica e Front-End_
+- 👽 _Trabalhando para ser um bom desenvolvedor full stack_
+- 💻 _Gosto de aprender de tudo sobre robótica e programação_
      
 <br><br><br>
     
@@ -26,9 +27,9 @@
 <div align="center">
   <table>
      <tr>
-        <td align="center">Já estudei:</td>
-        <td align="center">Estou estudando:</td>
-        <td align="center">Pretendo estudar:</td>
+        <td align="center">Estudei:</td>
+        <td align="center">Estudando:</td>
+        <td align="center">Estudar:</td>
       </tr>
       <tr>
         <td align="center">             
@@ -138,14 +139,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
         <a href="https://github.com/RickFerreira/EstudosTeoriaDosGrafos">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosTeoriaDosGrafos&theme=react&hide_border=true" >
         </a>
-        <a href="https://github.com/RickFerreira/Bom-Treino-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Bom-Treino-App&theme=react&hide_border=true" >
+        <a href="https://github.com/RickFerreira/EstudosEstruturaDeDados">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstruturaDeDados&theme=react&hide_border=true" >
         </a>
       </td>
     </tr>
     <tr>
        <td align="center">Minijogos Web</td>
-       <td align="center">Banco de Dados</td>
+       <td align="center">Full Stack</td>
     </tr>
     <tr>
       <td align="center">
@@ -160,10 +161,39 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
         </a>
       </td>
       <td align="center">
-         <p>Pretendo estudar ainda</p>
+        <a href="https://github.com/RickFerreira/TaskList">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=TaskList&theme=react&hide_border=true" >
+        </a>
+        <a href="https://github.com/RickFerreira/squad05-main">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=squad05-main&theme=react&hide_border=true" >
+        </a>
+        <a href="https://github.com/RickFerreira/Bom-Treino-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Bom-Treino-App&theme=react&hide_border=true" >
+        </a>
       </td>
     </tr>
   </table>
+  <table>
+    <tr>
+       <td align="center">Outros</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/RickFerreira/EstudosMicrocontroladores">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosMicrocontroladores&theme=react&hide_border=true" >
+        </a>
+        <a href="https://github.com/RickFerreira/EstudosEstatistica">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstatistica&theme=react&hide_border=true" >
+        </a>
+        <a href="https://github.com/RickFerreira/AlgoritmosTheHuxleyEmPython">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=AlgoritmosTheHuxleyEmPython&theme=react&hide_border=true" >
+        </a>
+        <a href="https://github.com/RickFerreira/EstudosSistemasOperacionais">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosSistemasOperacionais&theme=react&hide_border=true" >
+        </a>
+      </td>
+    </tr>
+</table>
 </p>
 
 <br>
