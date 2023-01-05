@@ -29,7 +29,7 @@
      <tr>
         <td align="center">Estudei:</td>
         <td align="center">Estudando:</td>
-        <td align="center">Estudar:</td>
+        <td align="center">Estudarei:</td>
       </tr>
       <tr>
         <td align="center">             
