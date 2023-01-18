@@ -106,6 +106,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <h2 align="center"><i> 🐍 Commits: </i></h2>   
   
   ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
+  
+  <a  href="https://github.com/RickFerreira?tab=repositories"><img width="96%" alt="Rick activity graph"  src="https://activity-graph.herokuapp.com/graph?username=RickFerreira&theme=gotham" /></a>
        
 <br>      
          
