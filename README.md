@@ -1,10 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header"/>
+
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Hello+World🌎/>"/></div> 
-             
-```python
-       print( " Pegue sua xicará de café e venha conhecer meu portfólio!! ♨️ " );
-```
+<div align="center"> 
   
-<div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/960553749368152084/Rick_Ferreira-min_1.gif" width="90%"></div>
+  ```python
+         print( " Pegue sua xicará de café e venha conhecer meu portfólio!! ♨️ " );
+  ```
+
+</div>
+
+<div align="center"><img src="https://media.discordapp.net/attachments/459871999943114762/1070065294275514480/Rick_Ferreira.gif?width=1025&height=256" width="100%"></div>
 
 <br>
 
@@ -223,3 +228,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RickFerreira/count.svg" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
