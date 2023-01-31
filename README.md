@@ -78,7 +78,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <table>
     <tr>
       <td>
-        <img height="100%"  src="https://estatisticas-github-readme-rick.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=7&theme=react"/>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=16&theme=react"/>
       </td>
     </tr>
   </table>
@@ -88,11 +88,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
         <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RickFerreira&hide_border=true&theme=react" />
       </td>
       <td>
-        <img height="100%" src="https://estatisticas-github-readme-rick.vercel.app/api?username=RickFerreira&show_icons=true&theme=react"/> 
-      </td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=16&theme=tokyonight"/>
-      <td>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
       </td>
     </tr>
   </table>
@@ -126,24 +122,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <tr>
       <td align="center">
         <a href="https://github.com/RickFerreira/rickferreira.github.io">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=rickferreira.github.io&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=rickferreira.github.io&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/Degrauss">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=Degrauss&theme=react&hide_border=true"  >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Degrauss&theme=react&hide_border=true"  >
         </a>
         <a href="https://github.com/RickFerreira/clone-netflix">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=clone-netflix&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=clone-netflix&theme=react&hide_border=true" >
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/RickFerreira/EstudosPOO">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=EstudosPOO&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosPOO&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/EstudosTeoriaDosGrafos">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=EstudosTeoriaDosGrafos&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosTeoriaDosGrafos&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/EstudosEstruturaDeDados">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstruturaDeDados&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstruturaDeDados&theme=react&hide_border=true" >
         </a>
       </td>
     </tr>
@@ -154,24 +150,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <tr>
       <td align="center">
         <a href="https://github.com/RickFerreira/Jogo-Dinossauro-Google">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=Jogo-Dinossauro-Google&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Jogo-Dinossauro-Google&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/LabiRick">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=LabiRick&theme=react&hide_border=true"  >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=LabiRick&theme=react&hide_border=true"  >
         </a>
         <a href="https://github.com/RickFerreira/Maratona-Explorer">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=Maratona-Explorer&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Maratona-Explorer&theme=react&hide_border=true" >
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/RickFerreira/TaskList">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=TaskList&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=TaskList&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/squad05-main">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=squad05-main&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=squad05-main&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/Bom-Treino-App">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=Bom-Treino-App&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Bom-Treino-App&theme=react&hide_border=true" >
         </a>
       </td>
     </tr>
@@ -183,16 +179,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <tr>
       <td align="center">
         <a href="https://github.com/RickFerreira/EstudosMicrocontroladores">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=EstudosMicrocontroladores&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosMicrocontroladores&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/EstudosEstatistica">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstatistica&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstatistica&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/AlgoritmosTheHuxleyEmPython">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=AlgoritmosTheHuxleyEmPython&theme=react&hide_border=true" > 
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=AlgoritmosTheHuxleyEmPython&theme=react&hide_border=true" > 
         </a>
         <a href="https://github.com/RickFerreira/EstudosSistemasOperacionais">
-          <img src="https://estatisticas-github-readme-rick.vercel.app/api/pin/?username=rickferreira&repo=EstudosSistemasOperacionais&theme=react&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosSistemasOperacionais&theme=react&hide_border=true" >
         </a> 
       </td>
     </tr>
