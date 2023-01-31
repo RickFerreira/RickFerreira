@@ -90,6 +90,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
       <td>
         <img height="100%" src="https://estatisticas-github-readme-rick.vercel.app/api?username=RickFerreira&show_icons=true&theme=react"/> 
       </td>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=16&theme=tokyonight"/>
+      <td>
+      </td>
     </tr>
   </table>
 </div>
