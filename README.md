@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=80&section=header"/>
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Hello+World🌎/>"/></div> 
 <div align="center"> 
@@ -102,10 +102,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <br>
 <h2 align="center"><i> 🌌 Social media: </i></h2> 
 <div align="center"> 
+  <a href="https://rickferreira.github.io/" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="https://git.synchro.com.br/RickFerreira" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/rick.rfs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:richard.salviano@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-ferreira-salviano-15764a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://rickferreira.github.io/" target="_blank"><img height="28" width="100" src="https://cdn.discordapp.com/attachments/459871999943114762/961336836691755028/1271847.png" target="_blank"></a> 
+  
   
 <br><br>
 <h2 align="center"><i> 🐍 Commits: </i></h2>   
