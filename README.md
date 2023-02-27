@@ -131,11 +131,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
         <a href="https://github.com/RickFerreira/rickferreira.github.io">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=rickferreira.github.io&theme=react&hide_border=true" >
         </a>
-        <a href="https://github.com/RickFerreira/Degrauss">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Degrauss&theme=react&hide_border=true"  >
-        </a>
         <a href="https://github.com/RickFerreira/arena-fitness">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=arena-fitness&theme=react&hide_border=true" >
+        </a>
+        <a href="https://github.com/RickFerreira/Degrauss">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Degrauss&theme=react&hide_border=true"  >
         </a>
       </td>
       <td align="center">
