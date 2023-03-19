@@ -63,6 +63,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
         <img align="center" title="Rick_Styledcomponents" alt="Styled_components" height="30" width="40"                         src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
         <img align="center" title="Rick_Git" alt="Git" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+        <img align="center" title="Rick_SystemVerilog" alt="SystemVerilog" height="30" width="40" 
+src="https://cdn.discordapp.com/attachments/459871999943114762/1086807319012196372/sv.png">
       </td>   
       <td align="center">
        <img align="center" title="Rick_SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
