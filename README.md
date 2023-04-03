@@ -85,7 +85,7 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
    <table>
     <tr>
       <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=50&theme=dark"/>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=50&theme=react"/>
       </td>
     </tr>
   </table>
@@ -95,7 +95,7 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
         <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=RickFerreira&theme=black-ice&locale=pt_BR"/>
       </td>
       <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
       </td>
     </tr>
   </table>
@@ -131,24 +131,24 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
     <tr>
       <td align="center">
         <a href="https://github.com/RickFerreira/rickferreira.github.io">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=rickferreira.github.io&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=rickferreira.github.io&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/arena-fitness">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=arena-fitness&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=arena-fitness&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/Degrauss">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Degrauss&theme=dark&hide_border=true"  >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Degrauss&theme=react&hide_border=true"  >
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/RickFerreira/EstudosPOO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosPOO&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosPOO&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/EstudosTeoriaDosGrafos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosTeoriaDosGrafos&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosTeoriaDosGrafos&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/EstudosEstruturaDeDados">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstruturaDeDados&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstruturaDeDados&theme=react&hide_border=true" >
         </a>
       </td>
     </tr>
@@ -159,24 +159,24 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
     <tr>
       <td align="center">
         <a href="https://github.com/RickFerreira/Jogo-Dinossauro-Google">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Jogo-Dinossauro-Google&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Jogo-Dinossauro-Google&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/LabiRick">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=LabiRick&theme=dark&hide_border=true"  >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=LabiRick&theme=react&hide_border=true"  >
         </a>
         <a href="https://github.com/RickFerreira/Maratona-Explorer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Maratona-Explorer&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Maratona-Explorer&theme=react&hide_border=true" >
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/RickFerreira/TaskList">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=TaskList&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=TaskList&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/squad05-main">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=squad05-main&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=squad05-main&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/Bom-Treino-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Bom-Treino-App&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Bom-Treino-App&theme=react&hide_border=true" >
         </a>
       </td>
     </tr>
@@ -188,16 +188,16 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
     <tr>
       <td align="center">
         <a href="https://github.com/RickFerreira/EstudosMicrocontroladores">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosMicrocontroladores&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosMicrocontroladores&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/EstudosEstatistica">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstatistica&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstatistica&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/AlgoritmosTheHuxleyEmPython">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=AlgoritmosTheHuxleyEmPython&theme=dark&hide_border=true" > 
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=AlgoritmosTheHuxleyEmPython&theme=react&hide_border=true" > 
         </a>
         <a href="https://github.com/RickFerreira/EstudosSistemasOperacionais">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosSistemasOperacionais&theme=dark&hide_border=true" >
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosSistemasOperacionais&theme=react&hide_border=true" >
         </a> 
       </td>
     </tr>
