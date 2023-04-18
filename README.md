@@ -234,4 +234,5 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
   <img src="https://profile-counter.glitch.me/RickFerreira/count.svg" />
 </p>
 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
