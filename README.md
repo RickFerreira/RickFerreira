@@ -117,6 +117,8 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
   
   ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
   
+  A cobrinha pode ter comido alguns commits, para ver todos e com mais detalhes desça até o fim da página.
+  
  <img width="96%" alt="Rick activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=RickFerreira&theme=gotham" />
        
 <br>      
