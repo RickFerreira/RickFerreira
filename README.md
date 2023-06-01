@@ -59,8 +59,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
 src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
         <img align="center" title="Rick_Node" alt="Node" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-        <img align="center" title="Rick_Sass" alt="Sass" height="30" width="40"                                                                  src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png">
-        <img align="center" title="Rick_Styledcomponents" alt="Styled_components" height="30" width="40"                         src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
+        <img align="center" title="Rick_Sass" alt="Sass" height="30" width="40" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png">
+        <img align="center" title="Rick_Styledcomponents" alt="Styled_components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
         <img align="center" title="Rick_Git" alt="Git" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
         <img align="center" title="Rick_SystemVerilog" alt="SystemVerilog" height="30" width="40" 
@@ -119,7 +119,7 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
   
   A cobrinha pode ter comido alguns commits, para ver todos e com mais detalhes desça até o fim da página.
   
- <img width="96%" alt="Rick activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=RickFerreira&theme=gotham" />
+ <img width="96%" alt="Rick activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=RickFerreira&theme=gotham"/>
        
 <br>      
          
