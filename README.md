@@ -109,7 +109,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <a href="https://rickferreira.github.io/" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://git.synchro.com.br/RickFerreira" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/_rick.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:salviano.malito@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="salviano.richard@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-ferreira-salviano-15764a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 <br><br><br>
