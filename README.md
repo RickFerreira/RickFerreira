@@ -21,10 +21,11 @@
 <br><br>
 
 - 🎓 _Formado como Técnico em Informática pelo IFPB_
-- 🤓 _Graduando em Engenharia de Computação no IFPB_
+- 🤓 _Estudante de Análise e Desenvolvimento de Sistemas_
 - 🚀 _Bolsista no projeto GoSyn4Tax do IFPB com a Synchro_
-- 👽 _Trabalhando para ser um bom desenvolvedor full stack_
-- 💻 _Gosto de aprender de tudo sobre robótica e programação_
+- 💻 _Gosto de aprender de tudo um pouco sobre programação_
+- 👽 _Estudando para ser um bom desenvolvedor web full stack_
+
      
 <br><br><br>
     
@@ -32,39 +33,37 @@
 <div align="center">
   <table>
      <tr>
-        <td align="center">Estudei:</td>
-        <td align="center">Estudando:</td>
-        <td align="center">Estudarei:</td>
+        <td align="center">Já estudei:</td>
+        <td align="center">Estou estudando:</td>
+        <td align="center">Pretendo estudar:</td>
       </tr>
       <tr>
         <td align="center">             
-          <img align="center"  title="Rick_Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-          <img align="center" title="Rick_Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
           <img align="center" title="Rick_Jupyter" alt="Jupyter" height"30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
           <img align="center" title="Rick_HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
           <img align="center"  title="Rick_CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
           <img align="center" title="Rick_C" alt="C" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+          <img align="center" title="Rick_Cplusplus" alt="C++" height="30" width="40" 
+src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
           <img align="center" title="Rick_Arduino" alt="ArduinoIDE" height="30" width="30" 
 src="https://www.logolynx.com/images/logolynx/9e/9eb6de771bf478a1a04d08969a76ccf6.png">     
           <img align="center" title="Rick_LEGO" alt="LEGO" height="30" width="40" 
 src="https://www.wattson.pt/wp-content/uploads/2018/12/Lego-Logo.png ">     
           <img align="center" title="Rick_JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          <img align="center" title="Rick_SystemVerilog" alt="SystemVerilog" height="30" width="40" 
+src="https://cdn.discordapp.com/attachments/459871999943114762/1086807319012196372/sv.png">
       </td>
       <td align="center">
         <img align="center" title="Rick_React" alt="React" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
         <img align="center" title="Rick_Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-        <img align="center" title="Rick_Cplusplus" alt="C++" height="30" width="40" 
-src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
-        <img align="center" title="Rick_Node" alt="Node" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
         <img align="center" title="Rick_Sass" alt="Sass" height="30" width="40" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png">
         <img align="center" title="Rick_Styledcomponents" alt="Styled_components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
+        <img align="center" title="Rick_Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+        <img align="center"  title="Rick_Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
         <img align="center" title="Rick_Git" alt="Git" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-        <img align="center" title="Rick_SystemVerilog" alt="SystemVerilog" height="30" width="40" 
-src="https://cdn.discordapp.com/attachments/459871999943114762/1086807319012196372/sv.png">
       </td>   
       <td align="center">
        <img align="center" title="Rick_SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
@@ -72,6 +71,8 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
        <img align="center" title="Rick_Postman" alt="Postman" height="30" width="40" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
        <img align="center" title="Rick_Clojure" alt="Clojure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/256px-Clojure_logo.svg.png">
        <img align="center" title="Rick_Linux" alt="Linux" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
+       <img align="center" title="Rick_Node" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+       <img align="center" title="Rick_Kotlin" alt="Node" height="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png">
     </td>
     </tr>
   </table>
@@ -107,21 +108,11 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
 <div align="center"> 
   <a href="https://rickferreira.github.io/" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://git.synchro.com.br/RickFerreira" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/rick.rfs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:richard.salviano@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/richard-ferreira-salviano-15764a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-<br><br>
-<h2 align="center"><i> 🐍 Commits: </i></h2>   
-  
-  ![Snake animation](https://github.com/RickFerreira/RickFerreira/blob/output/github-contribution-grid-snake.svg)
-  
-  A cobrinha pode ter comido alguns commits, para ver todos e com mais detalhes desça até o fim da página.
-  
- <img width="96%" alt="Rick activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=RickFerreira&theme=gotham"/>
-       
-<br>      
+  <a href="https://instagram.com/_rick.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:salviano.malito@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/richard-ferreira-salviano-15764a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+<br><br><br>
          
 <h2 align="center"><i> 💯 Main repositories</i></h2>
 
@@ -147,8 +138,8 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
         <a href="https://github.com/RickFerreira/EstudosPOO">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosPOO&theme=react&hide_border=true" >
         </a>
-        <a href="https://github.com/RickFerreira/EstudosTeoriaDosGrafos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosTeoriaDosGrafos&theme=react&hide_border=true" >
+        <a href="https://github.com/RickFerreira/EstudosJava">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosJava&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/EstudosEstruturaDeDados">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstruturaDeDados&theme=react&hide_border=true" >
@@ -199,9 +190,9 @@ src="https://cdn.discordapp.com/attachments/459871999943114762/10868073190121963
         <a href="https://github.com/RickFerreira/AlgoritmosTheHuxleyEmPython">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=AlgoritmosTheHuxleyEmPython&theme=react&hide_border=true" > 
         </a>
-        <a href="https://github.com/RickFerreira/EstudosSistemasOperacionais">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosSistemasOperacionais&theme=react&hide_border=true" >
-        </a> 
+        <a href="https://github.com/RickFerreira/EstudosTeoriaDosGrafos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosTeoriaDosGrafos&theme=react&hide_border=true" >
+        </a>
       </td>
     </tr>
 </table>
