@@ -9,7 +9,7 @@
 
 </div>
 
-<div align="center"><img src="https://media.discordapp.net/attachments/459871999943114762/1070065294275514480/Rick_Ferreira.gif?width=1025&height=256" width="100%"></div>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/1149745032912453703/capaGit.gif" width="100%"></div>
 
 <br>
 
