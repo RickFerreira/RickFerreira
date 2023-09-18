@@ -187,8 +187,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
         <a href="https://github.com/RickFerreira/EstudosEstatistica">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstatistica&theme=react&hide_border=true" >
         </a>
-        <a href="https://github.com/RickFerreira/AlgoritmosTheHuxleyEmPython">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=AlgoritmosTheHuxleyEmPython&theme=react&hide_border=true" > 
+        <a href="https://github.com/RickFerreira/AlgoritmosComPython">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=AlgoritmosComPython&theme=react&hide_border=true" > 
         </a>
         <a href="https://github.com/RickFerreira/EstudosTeoriaDosGrafos">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosTeoriaDosGrafos&theme=react&hide_border=true" >
