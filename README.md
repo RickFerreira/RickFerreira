@@ -94,7 +94,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <table>
     <tr>
       <td>
-        <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=RickFerreira&theme=black-ice&locale=pt_BR"/>
+        <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=RickFerreira&theme=react&locale=pt_BR"/>
       </td>
       <td>
         <img height="100%" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
