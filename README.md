@@ -6,7 +6,6 @@
   ```python
          print( " Pegue sua xicará de café e venha conhecer meu portfólio!! ♨️ " );
   ```
-
 </div>
 
 <div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/1149745032912453703/capaGit.gif" width="100%"></div>
