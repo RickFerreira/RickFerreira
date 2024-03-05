@@ -14,7 +14,7 @@
 
 <h2 align="center"><i> 👨🏽‍🦱 About me: </i></h2>
 
-<img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png">
+<img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png?ex=65f68baa&is=65e416aa&hm=04fa473fb7a70cc755344494a937543d2d7678a439406cc5a4e808f7fba68268&">
 
 <br><br>
 
@@ -37,40 +37,40 @@
       </tr>
       <tr>
         <td align="center">             
-          <img align="center" title="Rick_Jupyter" alt="Jupyter" height"30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-          <img align="center" title="Rick_HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-          <img align="center"  title="Rick_CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          <img align="center" title="Rick_C" alt="C" height="30" width="40" 
+          <img align="center" title="Jupyter" alt="Jupyter" height"30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+          <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          <img align="center" title="C" alt="C" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
-          <img align="center" title="Rick_Cplusplus" alt="C++" height="30" width="40" 
+          <img align="center" title="C++" alt="C++" height="30" width="40" 
 src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
-          <img align="center" title="Rick_Arduino" alt="ArduinoIDE" height="30" width="30" 
+          <img align="center" title="Arduino" alt="ArduinoIDE" height="30" width="30" 
 src="https://www.logolynx.com/images/logolynx/9e/9eb6de771bf478a1a04d08969a76ccf6.png">     
-          <img align="center" title="Rick_LEGO" alt="LEGO" height="30" width="40" 
+          <img align="center" title="LEGO" alt="LEGO" height="30" width="40" 
 src="https://www.wattson.pt/wp-content/uploads/2018/12/Lego-Logo.png ">     
-          <img align="center" title="Rick_JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          <img align="center" title="Rick_SystemVerilog" alt="SystemVerilog" height="30" width="40" 
-src="https://cdn.discordapp.com/attachments/459871999943114762/1086807319012196372/sv.png">
+          <img align="center" title="JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          <img align="center" title="SystemVerilog" alt="SystemVerilog" height="30" width="40" 
+src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png">
       </td>
       <td align="center">
-        <img align="center" title="Rick_React" alt="React" height="30" width="40" 
+        <img align="center" title="React" alt="React" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-        <img align="center" title="Rick_Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-        <img align="center" title="Rick_Sass" alt="Sass" height="30" width="40" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png">
-        <img align="center" title="Rick_Styledcomponents" alt="Styled_components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
-        <img align="center" title="Rick_Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-        <img align="center"  title="Rick_Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-        <img align="center" title="Rick_Git" alt="Git" height="30" width="40" 
+        <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+        <img align="center" title="Sass" alt="Sass" height="30" width="40" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png">
+        <img align="center" title="Styledcomponents" alt="Styled_components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
+        <img align="center" title="Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+        <img align="center"  title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+        <img align="center" title="Git" alt="Git" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
       </td>   
       <td align="center">
-       <img align="center" title="Rick_SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
-       <img align="center" title="Rick_MySQL" alt="MySQL" height="30" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> 
-       <img align="center" title="Rick_Postman" alt="Postman" height="30" width="40" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
-       <img align="center" title="Rick_Clojure" alt="Clojure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/256px-Clojure_logo.svg.png">
-       <img align="center" title="Rick_Linux" alt="Linux" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
-       <img align="center" title="Rick_Node" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-       <img align="center" title="Rick_Kotlin" alt="Node" height="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png">
+       <img align="center" title="SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
+       <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> 
+       <img align="center" title="Postman" alt="Postman" height="30" width="40" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
+       <img align="center" title="Clojure" alt="Clojure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/256px-Clojure_logo.svg.png">
+       <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
+       <img align="center" title="Node" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+       <img align="center" title="Kotlin" alt="Node" height="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png">
     </td>
     </tr>
   </table>
