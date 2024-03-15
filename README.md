@@ -21,7 +21,7 @@
 - 🎓 _Formado como Técnico em Informática pelo IFPB_
 - 🤓 _Estudante de Análise e Desenvolvimento de Sistemas_
 - 🚀 _Bolsista no projeto GoSyn4Tax do IFPB com a Synchro_
-- 💻 _Gosto de aprender de tudo sobre tecnologia_
+- 💻 _Gosto de aprender de tudo na área de tecnologia_
      
 <br><br><br>
     
