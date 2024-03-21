@@ -35,7 +35,7 @@
       </tr>
       <tr>
         <td align="center">             
-          <img align="center" title="Jupyter" alt="Jupyter" height"30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+          <img align="center" title="Jupyter" alt="Jupyter" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
           <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
           <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
           <img align="center" title="C" alt="C" height="30" width="40" 
@@ -49,6 +49,7 @@ src="https://www.wattson.pt/wp-content/uploads/2018/12/Lego-Logo.png ">
           <img align="center" title="JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           <img align="center" title="SystemVerilog" alt="SystemVerilog" height="30" width="40" 
 src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png">
+          <img align="center"  title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
       </td>
       <td align="center">
         <img align="center" title="React" alt="React" height="30" width="40" 
@@ -57,9 +58,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
         <img align="center" title="Sass" alt="Sass" height="30" width="40" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png">
         <img align="center" title="Styledcomponents" alt="Styled_components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
         <img align="center" title="Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-        <img align="center"  title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-        <img align="center" title="Git" alt="Git" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+        <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+        <img align="center" title="Bootstrap" alt="Bootstrap" height="40" width="40" src="https://logospng.org/download/bootstrap/bootstrap-4096.png">
       </td>   
       <td align="center">
        <img align="center" title="SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
@@ -177,8 +177,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/RickFerreira/EstudosMicrocontroladores">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosMicrocontroladores&theme=react&hide_border=true" >
+        <a href="https://github.com/RickFerreira/EstudosEstruturaDeDados">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstruturaDeDados&theme=react&hide_border=true" >
         </a>
         <a href="https://github.com/RickFerreira/EstudosEstatistica">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstatistica&theme=react&hide_border=true" >
