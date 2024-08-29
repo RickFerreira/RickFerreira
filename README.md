@@ -14,7 +14,7 @@
 
 <h2 align="center"><i> 👨🏽‍🦱 About me: </i></h2>
 
-<img align="right" alt="Rick-Boneco" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png?ex=6698b42a&is=669762aa&hm=ba1935a43642427f6da7f202b769b694b0d2f37d72b164d8e207ffa69b094840&">
+<img align="right" alt="avatar" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/459871999943114762/906790181280043039/aaaaa.png?ex=6698b42a&is=669762aa&hm=ba1935a43642427f6da7f202b769b694b0d2f37d72b164d8e207ffa69b094840&">
 
 <br><br>
 
