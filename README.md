@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello World! 👋 <br> Eu sou o Richard Salviano</h2>
+  <h1>Hello World! 👋 <br> Eu sou o Richard Salviano</h1>
   <h3>Full Stack Developer | Java | Spring Boot | React | SQL | REST APIs </h3> 
   
   <a href="https://rickferreira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-050505?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio"></a>
@@ -14,16 +14,21 @@
 ```python
 print("Pegue sua xícara de café e venha explorar meus códigos! ☕")
 ```
-
-Sou Técnico em Informática e graduado em Análise e Desenvolvimento de Sistemas.
-
-Atuo como desenvolvedor web em sistemas de conformidade fiscal, no laboratório IDE.IA em parceria com a Synchro Soluções Fiscais. Atualmente utilizando Java, Spring Boot, React, TypeScript e SQL.
-
-Experiência com desenvolvimento backend, frontend, banco de dados, versionamento Git e metodologias ágeis.
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🎓 Sobre mim
+
+- Sou **Técnico em Informática** e graduado em **Análise e Desenvolvimento de Sistemas**.
+
+- Atuo como desenvolvedor web em sistemas de conformidade fiscal, no laboratório **IDE.IA** em parceria com a **Synchro Soluções Fiscais**. Atualmente utilizando Java, Spring Boot, React, TypeScript e SQL.
+
+- Tenho experiência com desenvolvimento backend, frontend, banco de dados, versionamento Git e metodologias ágeis.
+
+---
+
+## 🚀 Stacks
 
 ### Backend
 
@@ -50,15 +55,10 @@ Experiência com desenvolvimento backend, frontend, banco de dados, versionament
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-<br>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=github_dark&include_all_commits=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&theme=github_dark"/>
-
 ---
 
 ## 📌 Sobre minha experiência profissional
 
 Grande parte da minha experiência profissional é desenvolvida em ambientes corporativos privados e repositórios internos do GitLab, não disponíveis publicamente.
 
-Este GitHub reúne projetos pessoais, estudos, protótipos e alguns sites que vendi.
+Este GitHub reúne projetos pessoais, estudos, protótipos e alguns sistemas e sites que desenvolvi de forma autônoma.
