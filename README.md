@@ -1,227 +1,56 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=80&section=header"/>
-
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=<Hello+World🌎/>"/></div> 
-<div align="center"> 
+<div align="center">
+  <h1>Hello World! 👋 Eu sou o Richard Salviano</h2>
+  <h3>Full Stack Developer | Java | Spring Boot | React | SQL | REST APIs </h3> 
   
-  ```python
-         print( " Pegue sua xicará de café e venha conhecer meu portfólio!! ♨️ " );
-  ```
+  <a href="https://rickferreira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-050505?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/rick3361" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:richardsalviano.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-<div align="center"><img src="https://cdn.discordapp.com/attachments/459871999943114762/1149745032912453703/capaGit.gif" width="100%"></div>
-
-<br>
-
-<h2 align="center"><i> 👨🏽‍🦱 About me: </i></h2>
-
-<img align="right" alt="avatar" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/459871999943114762/1278759996607299625/avatar.webp?ex=66d1f98d&is=66d0a80d&hm=ff6fe022356ff4fe1f9f877fb7186d6334cf65e8e60a65ddaa0248c108b7a27a&=&format=webp">
-
-<br><br>
-
-- 🎓 _Formado como Técnico em Informática pelo IFPB_
-- 🤓 _Estudante de Análise e Desenvolvimento de Sistemas_
-- 🚀 _Bolsista no projeto GoSyn4Tax do IFPB com a Synchro_
-- 💻 _Gosto de aprender de tudo na área de tecnologia_
-     
-<br><br><br>
-    
-<h2 align="center"><i> ♨️ Skills: </i></h2>                         
-<div align="center">
-  <table>
-     <tr>
-        <td align="center">Já estudei:</td>
-        <td align="center">Estou estudando:</td>
-        <td align="center">Pretendo estudar:</td>
-      </tr>
-      <tr>
-        <td align="center">             
-          <img align="center" title="Jupyter" alt="Jupyter" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-          <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-          <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          <img align="center" title="C" alt="C" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
-          <img align="center" title="C++" alt="C++" height="30" width="40" 
-src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
-          <img align="center" title="Arduino" alt="ArduinoIDE" height="30" width="30" 
-src="https://www.logolynx.com/images/logolynx/9e/9eb6de771bf478a1a04d08969a76ccf6.png">     
-          <img align="center" title="LEGO" alt="LEGO" height="30" width="40" 
-src="https://www.wattson.pt/wp-content/uploads/2018/12/Lego-Logo.png ">     
-          <img align="center" title="JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          <img align="center" title="SystemVerilog" alt="SystemVerilog" height="30" width="40" 
-src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png">
-          <img align="center"  title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-      </td>
-      <td align="center">
-        <img align="center" title="React" alt="React" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-        <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-        <img align="center" title="Sass" alt="Sass" height="30" width="40" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png">
-        <img align="center" title="Styledcomponents" alt="Styled_components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
-        <img align="center" title="Java" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-        <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-        <img align="center" title="Bootstrap" alt="Bootstrap" height="40" width="40" src="https://logospng.org/download/bootstrap/bootstrap-4096.png">
-      </td>   
-      <td align="center">
-       <img align="center" title="SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
-       <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> 
-       <img align="center" title="Postman" alt="Postman" height="30" width="40" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
-       <img align="center" title="Clojure" alt="Clojure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/256px-Clojure_logo.svg.png">
-       <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
-       <img align="center" title="Node" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-       <img align="center" title="Kotlin" alt="Node" height="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png">
-    </td>
-    </tr>
-  </table>
-</div>                                                       
-   
-   
-<br>
-
-<h2 align="center"><i> 👽 Git Hub: </i></h2>
+<br/>
 
 <div align="center">
-   <table>
-    <tr>
-      <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickFerreira&layout=compact&langs_count=50&theme=react"/>
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td>
-        <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=RickFerreira&theme=react&locale=pt_BR"/>
-      </td>
-      <td>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=RickFerreira&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<h2 align="center"><i> 🌌 Social media: </i></h2> 
-<div align="center"> 
-  <a href="https://rickferreira.github.io/" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="https://git.synchro.com.br/RickFerreira" target="_blank"><img height="28" width="100" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/_rick.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="salviano.richard@academico.ifbp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/richard-ferreira-salviano-15764a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-
-<br><br><br>
-         
-<h2 align="center"><i> 💯 Main repositories</i></h2>
-
-<p align="center">
-   <table>
-    <tr>
-       <td align="center">Front End</td>
-       <td align="center">Back End</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/RickFerreira/rickferreira.github.io">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=rickferreira.github.io&theme=react&hide_border=true" >
-        </a>
-        <a href="https://github.com/RickFerreira/arena-fitness">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=arena-fitness&theme=react&hide_border=true" >
-        </a>
-        <a href="https://github.com/RickFerreira/Degrauss">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Degrauss&theme=react&hide_border=true"  >
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/RickFerreira/EstudosPOO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosPOO&theme=react&hide_border=true" >
-        </a>
-        <a href="https://github.com/RickFerreira/EstudosJava">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosJava&theme=react&hide_border=true" >
-        </a>
-        <a href="https://github.com/RickFerreira/EstudosEstruturaDeDados">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstruturaDeDados&theme=react&hide_border=true" >
-        </a>
-      </td>
-    </tr>
-    <tr>
-       <td align="center">Minijogos Web</td>
-       <td align="center">Full Stack</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/RickFerreira/Jogo-Dinossauro-Google">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Jogo-Dinossauro-Google&theme=react&hide_border=true" >
-        </a>
-        <a href="https://github.com/RickFerreira/LabiRick">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=LabiRick&theme=react&hide_border=true"  >
-        </a>
-        <a href="https://github.com/RickFerreira/Maratona-Explorer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Maratona-Explorer&theme=react&hide_border=true" >
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/RickFerreira/TaskList">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=TaskList&theme=react&hide_border=true" >
-        </a>
-        <a href="https://github.com/RickFerreira/squad05-main">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=squad05-main&theme=react&hide_border=true" >
-        </a>
-        <a href="https://github.com/RickFerreira/Bom-Treino-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=Bom-Treino-App&theme=react&hide_border=true" >
-        </a>
-      </td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-       <td align="center">Outros</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/RickFerreira/EstudosEstruturaDeDados">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstruturaDeDados&theme=react&hide_border=true" >
-        </a>
-        <a href="https://github.com/RickFerreira/EstudosEstatistica">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosEstatistica&theme=react&hide_border=true" >
-        </a>
-        <a href="https://github.com/RickFerreira/AlgoritmosComPython">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=AlgoritmosComPython&theme=react&hide_border=true" > 
-        </a>
-        <a href="https://github.com/RickFerreira/EstudosTeoriaDosGrafos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickferreira&repo=EstudosTeoriaDosGrafos&theme=react&hide_border=true" >
-        </a>
-      </td>
-    </tr>
-</table>
-</p>
-
-<br>
-
-<h2 align="center"><i> 🔥 Author: </i></h2>   
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RickFerreira">
-        <img src="https://avatars.githubusercontent.com/u/40415279?v=4" width="100px;" alt="Avatar Rick"/><br>
-        <sub>
-          <b>by Rick</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-       <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=<Espero+que+tenha+gostado/>"/> 
-</div>
-
-<div align="center">
-       <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"/>
-</div>
-<br></br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/RickFerreira/count.svg" />
-</p>
+  
+```python
+print("Pegue sua xícara de café e venha explorar meus códigos! ☕")
+```
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
+Desenvolvedor Full Stack com experiência no desenvolvimento de sistemas web corporativos utilizando Java, Spring Boot, React e SQL.
+
+Atuo desde 2022 no projeto **IFPB4Synchro**, uma parceria entre IFPB e a Synchro Soluções Fiscais, desenvolvendo soluções para conformidade fiscal, APIs REST, regras de negócio e aplicações web corporativas.
+
+Sou Técnico em Informática e graduado em Análise e Desenvolvimento de Sistemas.
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Database
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+🔒 Aviso aos Recrutadores: Meu trabalho diário e contribuições principais ocorrem em repositórios privados corporativos no GitLab. Utilizo este GitHub como laboratório para projetos pessoais, estudos de novas tecnologias e experimentações.
